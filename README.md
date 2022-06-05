@@ -29,7 +29,7 @@
 
 > Small top-down, 2D game with textures, sprites, and basic gameplay.
 
-[So long ss1](https://github.com/iker-gonzalez/so_long/blob/main/screenshots/ss1.png)
+![So long ss1](https://github.com/iker-gonzalez/so_long/blob/main/screenshots/ss1.png)
 
 For detailed information, refer to the [**subject of this project**](https://github.com/iker-gonzalez/42_cursus/blob/main/_PDFs/en.subject_so_long.pdf)
 
