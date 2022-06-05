@@ -33,17 +33,15 @@ For detailed information, refer to the [**subject of this project**](https://git
 
 
  ## 🛠️ Usage
-To start the game you need to run the command `make` on the root directory.
+ First, run the command `make` on **mlx** directory (don't bother about the warning signs, your computer will resist).
+ 
+Then, you need to run the command `make` on the root directory.
+
 This will compile the executable file `so_long`.
-Then, you will need to create some random maps:
 
-```
-git clone https://github.com/eLeKaJota/so_long_map_generator
-cd so_long_map_generator
-./map_generator
-```
+Last, run `./so_long sample_maps/map1.ber` or any map of your choice.
 
-One you have the executable and the maps, run `./so_long map_files/map.ber` or any map of your choice.
+You can also create more random maps by running the `map_generator` file found in the [map generator](https://github.com/iker-gonzalez/so_long/tree/main/map_generator) directory (instructions are in Spanish, you may need to use some basic Google translation skills).
 
 
 ## Game
