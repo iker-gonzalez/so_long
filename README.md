@@ -20,7 +20,7 @@
 	<span> · </span>
 	<a href="#%EF%B8%8F-usage">Usage</a>
   <span> · </span>
-	<a href="#%EF%B8%8F-game">Testing</a>
+	<a href="#game">Game</a>
 </h3>
 
 ---
@@ -37,16 +37,16 @@ To start the game you need to run the command `make` on the root directory.
 This will compile the executable file `so_long`.
 Then, you will need to create some random maps:
 
-`
+```
 git clone https://github.com/eLeKaJota/so_long_map_generator
 cd so_long_map_generator
 ./map_generator
-`
+```
 
 One you have the executable and the maps, run `./so_long map_files/map.ber` or any map of your choice.
 
 
-## 👾 Game
+## Game
 To play this game you can use any map of your choice as long follow the following rues:
 
 * The extension need be `.ber`
